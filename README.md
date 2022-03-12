@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"/> 
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" alt="unity"/> 
+    <img width="60px" src="https://png.pngitem.com/pimgs/s/134-1340238_unity-3d-logo-png-transparent-png.png" alt="unity"/> 
   </a>
 </p>
 
