@@ -42,26 +42,47 @@ Here are some ideas to get you started:
 </p>
 
 
-
-## 🌱 I’m currently learning :
-
-[<img src="https://img.icons8.com/color/48/000000/react-native.png"/>](https://reactjs.org/)
-[<img src="https://img.icons8.com/color/48/000000/azure-1.png"/>](https://azure.microsoft.com/en-us/)
-
 ## My GitHub Stats
 <a href="https://github.com/arthurgonze">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&theme=tokyonight&hide_langs_below=1" />
-</a>
-<a href="https://github.com/arthurgonze">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&show_icons=true&theme=tokyonight&line_height=27" alt="Arthur's github stats"/>
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Arthur Gonze | Stats" />
 </a>
 
-## My GitHub Streak
-![github-streak](https://github-readme-streak-stats.herokuapp.com/?user=arthurgonze&theme=tokyonight)
+<!-- </details>
+<br />
+
+<details>
+<summary>💻 Top Languages</summary> -->
+
+<a href="https://github.com/arthurgonze">
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&hide=html,css,tsql,matlab,vue,less,hcl,jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Arthur Gonze | Top Languages" />
+</a>
+
+
+<br />
+<br />
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cankush625)](https://github.com/cankush625/github-readme-stats) -->
+
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</p>
+
+<br />
+
+<p align=center>
+<img src="https://badges.pufler.dev/visits/arthurgonze/arthurgonze?color=black&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=arthurgonze&color=brightgreen" />
+<a href="https://github.com/arthurgonze">
+<img src="https://badges.pufler.dev/commits/monthly/arthurgonze?color=blue" />
+</a>
+</p>
+
+<br />
+<hr />
  
 ## ✨ How to reach me : 
 
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:anushcodergirl@gmail.com)
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:arthurgonze@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/arthur-gonze-machado-890715177/) 
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/arthurgonze/) 
  
