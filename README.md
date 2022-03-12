@@ -28,12 +28,8 @@ Here are some ideas to get you started:
 
 <p align="center">
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyonight&custom_title=Languages" /> 
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=arthurgonze&theme=redical"> 
+ <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=arthurgonze&theme=redical&exclude_repo=arthurgonze"> 
 </p>
-
-<br>
-
-<br />
 
 <br />
 <p align=center>
@@ -63,7 +59,7 @@ Here are some ideas to get you started:
     <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"/> 
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="http://www.w3.org/2000/svg" alt="unity"/> 
+    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png?20150903192614" alt="unity"/> 
   </a>
 </p>
 
