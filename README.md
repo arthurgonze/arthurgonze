@@ -18,19 +18,6 @@ Here are some ideas to get you started:
 ## Hello there, I'm [Arthur!](https://www.linkedin.com/in/arthur-gonze-machado-890715177)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <blockquote><q>I love to see what I code gaining life and that's the motive I love to program games, animations and visual effects.</q></blockquote>
 
-## 👩‍💻 Tools:
-<p align="left"> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a>
-</p>
-
 
 ## My GitHub Stats
 <br>
@@ -61,9 +48,25 @@ Here are some ideas to get you started:
 <img src="https://badges.pufler.dev/commits/monthly/arthurgonze?color=blue" />
 </a>
 </p>
-
 <br />
 <hr />
+
+## 👩‍💻 Tools and Technologies:
+<p align="left"> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" /> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"/> 
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"/> 
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png" alt="unity"/> 
+  </a>
+</p>
+
  
 ## ✨ How to reach me : 
 
