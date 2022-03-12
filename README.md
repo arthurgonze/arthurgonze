@@ -41,10 +41,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=radical&custom_title=Languages" /> 
- <br>
- <br>
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=arthurgonze&theme=redical">
- 
+ <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=arthurgonze&theme=redical"> 
 </p>
 
 <br>
