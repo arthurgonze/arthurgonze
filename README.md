@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 <p align="center">
  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianaluisadc&layout=compact&theme=radical&custom_title=Languages" /> 
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=radical&custom_title=Languages" /> 
  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
  <br>
  <br>
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=adrianaluisadc&theme=redical">
+ <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=arthurgonze&theme=redical">
  
 </p>
 
