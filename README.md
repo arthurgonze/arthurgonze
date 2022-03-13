@@ -15,16 +15,20 @@
 </p>
 
 <br />
+
+<br>
 <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
   <img src="https://badges.pufler.dev/visits/arthurgonze/arthurgonze?color=black&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=arthurgonze&color=brightgreen" />
+</p>
+
+<p align=center>
   <a href="https://github.com/arthurgonze">
     <img src="https://badges.pufler.dev/commits/monthly/arthurgonze?color=blue" />
   </a>
 </p>
 <br />
-<hr />
 
 ## 👩‍💻 Tools and Technologies:
 <p align="left"> 
