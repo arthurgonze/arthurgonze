@@ -10,22 +10,18 @@
 </p>
 
 <p align="center">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyonight&custom_title=Languages" /> 
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=arthurgonze&theme=redical&exclude_repo=arthurgonze"> 
+ <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyonight&custom_title=Languages" /> 
+ <img width="550px"src="https://activity-graph.herokuapp.com/graph?username=arthurgonze&theme=redical&exclude_repo=arthurgonze"> 
 </p>
 
 <br />
 <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</p>
-
-<br />
-<p align=center>
-<img src="https://badges.pufler.dev/visits/arthurgonze/arthurgonze?color=black&logo=github" />
-<img src="https://komarev.com/ghpvc/?username=arthurgonze&color=brightgreen" />
-<a href="https://github.com/arthurgonze">
-<img src="https://badges.pufler.dev/commits/monthly/arthurgonze?color=blue" />
-</a>
+  <img src="https://badges.pufler.dev/visits/arthurgonze/arthurgonze?color=black&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=arthurgonze&color=brightgreen" />
+  <a href="https://github.com/arthurgonze">
+    <img src="https://badges.pufler.dev/commits/monthly/arthurgonze?color=blue" />
+  </a>
 </p>
 <br />
 <hr />
