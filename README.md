@@ -63,6 +63,12 @@
   <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer"> 
     <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" alt="CodeBlocks"/> 
   </a>
+  <a href="https://immersive-web.github.io/webxr-samples/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://immersive-web.github.io/webxr-samples/media/logo/webxr-logo.svg" alt="WebXR"/> 
+  </a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://github.com/mrdoob/three.js/blob/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="ThreeJS"/> 
+  </a>
 </p>
 
  
