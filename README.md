@@ -77,7 +77,7 @@ Here are some ideas to get you started:
     <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm"/> 
   </a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://www.pngfind.com/pngs/m/62-626470_python-logo-png-anaconda-python-transparent-png.png" alt="Anaconda"/> 
+    <img width="60px" src="https://www.pinclipart.com/picdir/big/180-1800785_anaconda-python-logo-clipart.png" alt="Anaconda"/> 
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
     <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png?20170128174110" alt="Matlab"/> 
