@@ -68,7 +68,7 @@ Here are some ideas to get you started:
     <img width="60px" src="https://seeklogo.com/images/B/blender-logo-91B66CA31F-seeklogo.com.png" alt="blender"/> 
   </a>
   <a href="https://www.sidefx.com/products/houdini/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://cdn.worldvectorlogo.com/logos/sidefx-houdini.svg" alt="houdini"/> 
+    <img width="120px" src="https://cdn.worldvectorlogo.com/logos/sidefx-houdini.svg" alt="houdini"/> 
   </a>
   <a href="https://www.jetbrains.com/pt-br/clion/" target="_blank" rel="noreferrer"> 
     <img width="60px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" alt="CLion"/> 
