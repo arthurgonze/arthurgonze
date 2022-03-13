@@ -68,7 +68,22 @@ Here are some ideas to get you started:
     <img width="60px" src="https://seeklogo.com/images/B/blender-logo-91B66CA31F-seeklogo.com.png" alt="blender"/> 
   </a>
   <a href="https://www.sidefx.com/products/houdini/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://www.sidefx.com/media/uploads/company/press/logos/houdini_badge.svg" alt="houdini"/> 
+    <img width="60px" src="https://cdn.worldvectorlogo.com/logos/sidefx-houdini.svg" alt="houdini"/> 
+  </a>
+  <a href="https://www.jetbrains.com/pt-br/clion/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" alt="CLion"/> 
+  </a>
+  <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm"/> 
+  </a>
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://imgbin.com/png/XA6dhr6h/anaconda-pip-installation-python-png" alt="Anaconda"/> 
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png?20170128174110" alt="Matlab"/> 
+  </a>
+  <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" alt="CodeBlocks"/> 
   </a>
 </p>
 
