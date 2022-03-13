@@ -76,7 +76,7 @@
 
 <br />
 
-### :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
+### :lock_with_ink_pen: Personal Projects:
 Name | Description | Status | Link
 -----|-------------|--------|------
 Top-down Adventure | A 2D zelda like core mechanics | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [To be open to public]
