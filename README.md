@@ -40,7 +40,7 @@
     <img width="120px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png?20150903192614" alt="unity"/> 
   </a>
   <a href="https://www.unrealengine.com/en-US/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal"/> 
+    <img width="80px" src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal"/> 
   </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img width="60px" src="https://seeklogo.com/images/B/blender-logo-91B66CA31F-seeklogo.com.png" alt="blender"/> 
@@ -68,6 +68,9 @@
   </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
     <img width="60px" src="https://github.com/mrdoob/three.js/blob/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="ThreeJS"/> 
+  </a>
+  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://www.opengl.org/img/opengl_logo.jpg" alt="OpenGL"/> 
   </a>
 </p>
 
