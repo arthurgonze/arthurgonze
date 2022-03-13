@@ -74,6 +74,20 @@
   </a>
 </p>
 
+<br />
+
+### :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
+Name | Description | Status | Link
+-----|-------------|--------|------
+Top-down Adventure | A 2D zelda like core mechanics | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [To be open to public]
+Isometric RPG  | A 3D isometric game Diablo like| ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/arthurgonze/Core-RPG-System)
+Minesweeper | Develop a minesweeper to learn Haskell | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/CampoMinado_Haskell)
+3D Tank Game | A base project of a tank war game done in Unreal  | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Tank_Wars)
+Top-down stealth | A 2D top-down with stealth mechanics | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Esu)
+Character field-of-view | A 2D stealth game mechanic with some different AI behaviors | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/2D-Field-of-View)
+2D SPH | A 2D Smoothed-particle hydrodynamics basic simulator | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/SPH)
+VR & AR | A series of projects to learn VR and AR | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/CG)
+<br />
  
 ## ✨ How to reach me : 
 
