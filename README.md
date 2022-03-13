@@ -3,24 +3,6 @@
 
 
 ## My GitHub Stats
-<br>
-<p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&show_icons=true&theme=tokyonight&count_private=true&custom_title=@arthurgonze "> 
- <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurgonze&theme=tokyonight" />
-</p>
-
-<p align="center">
- <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyonight&custom_title=Languages" /> 
- <img width="500px"src="https://activity-graph.herokuapp.com/graph?username=arthurgonze&theme=redical&exclude_repo=arthurgonze"> 
-</p>
-
-<br />
-
-<br>
-<p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</p>
-
 <p align=center>
   <img src="https://badges.pufler.dev/visits/arthurgonze/arthurgonze?color=black&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=arthurgonze&color=brightgreen" />
@@ -29,6 +11,21 @@
   </a>
 </p>
 
+<br>
+<p align="center">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&show_icons=true&theme=tokyonight&count_private=true&custom_title=@arthurgonze "> 
+ <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurgonze&theme=tokyonight" />
+</p>
+<p align="center">
+ <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyonight&custom_title=Languages" /> 
+ <img width="500px"src="https://activity-graph.herokuapp.com/graph?username=arthurgonze&theme=redical&exclude_repo=arthurgonze"> 
+</p>
+<br />
+
+<br>
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</p>
 <br />
 
 ## 👩‍💻 Tools and Technologies:
