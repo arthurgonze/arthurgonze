@@ -70,7 +70,7 @@
     <img width="60px" src="https://github.com/mrdoob/three.js/blob/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="ThreeJS"/> 
   </a>
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://www.opengl.org/img/opengl_logo.jpg" alt="OpenGL"/> 
+    <img width="80px" src="https://www.opengl.org/img/opengl_logo.jpg" alt="OpenGL"/> 
   </a>
 </p>
 
