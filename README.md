@@ -61,6 +61,15 @@ Here are some ideas to get you started:
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png?20150903192614" alt="unity"/> 
   </a>
+  <a href="https://www.unrealengine.com/en-US/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal"/> 
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://seeklogo.com/images/B/blender-logo-91B66CA31F-seeklogo.com.png" alt="blender"/> 
+  </a>
+  <a href="https://www.sidefx.com/products/houdini/" target="_blank" rel="noreferrer"> 
+    <img width="60px" src="https://www.sidefx.com/media/uploads/company/press/logos/houdini_badge.svg" alt="houdini"/> 
+  </a>
 </p>
 
  
