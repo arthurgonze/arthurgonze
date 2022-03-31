@@ -80,7 +80,7 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 ### :lock_with_ink_pen: Personal Projects:
 Name | Description | Status | Link
 -----|-------------|--------|------
-Top-down Adventure | A 2D zelda like core mechanics | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [To be open to public]
+Top-down Adventure | A 2D zelda like core mechanics | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/arthurgonze/Zelda-Like)
 Isometric RPG  | A 3D isometric game Diablo like| ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/arthurgonze/Core-RPG-System)
 Minesweeper | Develop a minesweeper to learn Haskell | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/CampoMinado_Haskell)
 3D Tank Game | A base project of a tank war game done in Unreal  | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Tank_Wars)
