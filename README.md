@@ -89,7 +89,7 @@ Character field-of-view | A 2D stealth game mechanic with some different AI beha
 2D SPH | A 2D Smoothed-particle hydrodynamics basic simulator | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/SPH)
 VR & AR | A series of projects to learn VR and AR | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/CG)
 Horizontal Shoot 'em up | A R-Type clone game | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/R-Type)
-Breakout Game | A Breakout clone game | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Breakout)
+Code Breaker | A Breakout WebGL Web3 game | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Breakout)
 PAC-MAN | A PAC-MAN clone game | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Pac-man)
 <br />
  
