@@ -1,5 +1,5 @@
 ## Hello there, I'm [Arthur!](https://www.linkedin.com/in/arthur-gonze-machado-890715177/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<blockquote><q>I love to see what I code gaining life and that's the motive I love to program games, animations and visual effects.</q></blockquote>
+<q>I love to see what I code gaining life and that's the motive I love to program games, animations and visual effects.</q>
 
 I'm a Computer Science MSc student. My areas of ​​interest are Computer Graphics, Game Programming, and Computational Fluid Dynamics.
 
