@@ -14,13 +14,9 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 </p>
 
 <p align="center">
- <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyo-night"/> 
+ <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyo-night"/> 
+ <img width="48%" height="200px" src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
-</p>
-<br />
 
 ## ✨ How to reach me : 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:arthurgonze@gmail.com)
