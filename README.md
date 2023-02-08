@@ -7,16 +7,18 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 ![Profile views](https://gpvc.arturio.dev/arthurgonze)
 <br>
 ![Github Followers](https://img.shields.io/github/followers/arthurgonze?label=Followers&logo=GitHub&style=for-the-badge)
-
+<br>
+<p align="center">
+ <img width="50%" height="200px" src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+</p>
 <br>
 <p align="center">
  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
  <img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurgonze&theme=tokyonight"/>
 </p>
-
+<br>
 <p align="center">
- <img width="39%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyo-night"/> 
- <img width="60%" height="200px" src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+ <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyo-night"/> 
 </p>
 
 ## ✨ How to reach me : 
