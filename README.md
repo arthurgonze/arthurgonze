@@ -34,12 +34,12 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
   <img height="20px" src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white"/>
   <img height="20px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img height="20px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-<\p>
+</p>
 ## 👩‍💻 OS:
 <p align="left"> 
   <img height="20px" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
   <img height="20px" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
-<\p>
+</p>
 ## 💻 Frameworks & Library:
 <p align="left"> 
   <img height="20px" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
@@ -50,17 +50,23 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 
 <br />
 
-### :lock_with_ink_pen: Personal Projects:
+### :lock_with_ink_pen: Recent Projects:
 Name | Description | Status | Link
 -----|-------------|--------|------
 Top-down Adventure | A 2D zelda like core mechanics | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/arthurgonze/Zelda-Like)
 Isometric RPG  | A 3D isometric game Diablo like| ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Core-RPG-System)
+Character field-of-view | A 2D stealth game mechanic with some different AI behaviors | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/2D-Field-of-View)
+2D SPH | A 2D Smoothed-particle hydrodynamics basic simulator | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/SPH)
+VR & AR | A series of projects to learn VR and AR | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/CG)
+<br />
+
+### :lock_with_ink_pen: Old Projects:
+Name | Description | Status | Link
+-----|-------------|--------|------
 Minesweeper | Develop a minesweeper to learn Haskell | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/CampoMinado_Haskell)
 3D Tank Game | A base project of a tank war game done in Unreal  | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Tank_Wars)
 Top-down stealth | A 2D top-down with stealth mechanics | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Esu)
 Character field-of-view | A 2D stealth game mechanic with some different AI behaviors | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/2D-Field-of-View)
-2D SPH | A 2D Smoothed-particle hydrodynamics basic simulator | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/SPH)
-VR & AR | A series of projects to learn VR and AR | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/CG)
 Horizontal Shoot 'em up | A R-Type clone game | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/R-Type)
 Code Breaker | A Breakout WebGL Web3 game | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Breakout)
 PAC-MAN | A PAC-MAN clone game | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Pac-man)
