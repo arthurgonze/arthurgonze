@@ -5,9 +5,9 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 
 ## My GitHub Stats
 <p align="left">
-  <img height="15px" src="https://gpvc.arturio.dev/arthurgonze"/>
+  <img height="20px" src="https://gpvc.arturio.dev/arthurgonze"/>
   <br>
-  <img height="15px" src="https://img.shields.io/github/followers/arthurgonze?label=Followers&logo=GitHub&style=for-the-badge"/>
+  <img height="20px" src="https://img.shields.io/github/followers/arthurgonze?label=Followers&logo=GitHub&style=for-the-badge"/>
 </p>
 
 <p align="right">
