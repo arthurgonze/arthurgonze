@@ -6,7 +6,7 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 ## My GitHub Stats
 ![Profile views](https://gpvc.arturio.dev/arthurgonze)
 ![Github Followers](https://img.shields.io/github/followers/arthurgonze?label=Followers&logo=GitHub&style=for-the-badge)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgonze)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
 <br>
 <p align="center">
