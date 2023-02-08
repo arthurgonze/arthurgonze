@@ -79,7 +79,6 @@ Name | Description | Status | Link
 First Person | A first-person sandbox project to protype gameplay mechanics | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/arthurgonze/Growing)
 Top-down Adventure | A 2D zelda like core mechanics | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/arthurgonze/Zelda-Like)
 Isometric RPG  | A 3D isometric game Diablo like| ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Core-RPG-System)
-Character field-of-view | A 2D stealth game mechanic with some different AI behaviors | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/2D-Field-of-View)
 2D SPH | A 2D Smoothed-particle hydrodynamics basic simulator | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/SPH)
 VR & AR | A series of projects to learn VR and AR | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/CG)
 <br />
