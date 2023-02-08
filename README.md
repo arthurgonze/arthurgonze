@@ -30,6 +30,7 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 <p align="left"> 
   <img height="20px" src=""/>
   <img height="20px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/Unreal-100000?style=for-the-badge&logo=unreal&logoColor=white"/>
   <img height="20px" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
   <img height="20px" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
   <img height="20px" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
