@@ -11,7 +11,7 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 <br>
 <p align="center">
  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
- <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurgonze&theme=tokyonight"/>
+ <img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurgonze&theme=tokyonight"/>
 </p>
 
 <p align="center">
