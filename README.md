@@ -3,11 +3,11 @@
 
 I'm a Computer Science MSc student. My areas of ​​interest are Computer Graphics, Game Programming, and Computational Fluid Dynamics.
 
-## ✨ How to reach me : 
+## 📱 Contact: 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:arthurgonze@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arthur-gonze-machado-890715177/) 
 
-## My GitHub Stats
+## 📟 GitHub Stats
 <p align="left">
   <img height="20px" src="https://gpvc.arturio.dev/arthurgonze"/>
   <img height="20px" src="https://img.shields.io/github/followers/arthurgonze?label=Followers&logo=GitHub&style=for-the-badge"/>
@@ -24,7 +24,7 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyo-night"/> 
 </p>
 
-## 👩‍💻 Engines & IDEs:
+## 🎮 Engines & IDEs:
 <p align="left"> 
   <img height="20px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img height="20px" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
