@@ -4,9 +4,8 @@
 I'm a Computer Science MSc student. My areas of ​​interest are Computer Graphics, Game Programming, and Computational Fluid Dynamics.
 
 ## ✨ How to reach me : 
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:arthurgonze@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/arthur-gonze-machado-890715177/) 
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/arthurgonze/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:arthurgonze@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arthur-gonze-machado-890715177/) 
 
 ## My GitHub Stats
 <p align="left">
@@ -25,60 +24,28 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyo-night"/> 
 </p>
 
- 
-## 👩‍💻 Tools and Technologies:
+## 👩‍💻 Engines & IDEs:
 <p align="left"> 
-  <img height="20px" src=""/>
   <img height="20px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img height="20px" src="https://img.shields.io/badge/Unreal-100000?style=for-the-badge&logo=unreal&logoColor=white"/>
-  <img height="20px" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+<\p>
+## 👩‍💻 OS:
+<p align="left"> 
   <img height="20px" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
   <img height="20px" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" /> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"/> 
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"/> 
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img width="120px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Official_unity_logo.png?20150903192614" alt="unity"/> 
-  </a>
-  <a href="https://www.unrealengine.com/en-US/" target="_blank" rel="noreferrer"> 
-    <img width="80px" src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="unreal"/> 
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://seeklogo.com/images/B/blender-logo-91B66CA31F-seeklogo.com.png" alt="blender"/> 
-  </a>
-  <a href="https://www.sidefx.com/products/houdini/" target="_blank" rel="noreferrer"> 
-    <img width="120px" src="https://cdn.worldvectorlogo.com/logos/sidefx-houdini.svg" alt="houdini"/> 
-  </a>
-  <a href="https://www.jetbrains.com/pt-br/clion/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://seeklogo.com/images/C/clion-logo-7874C69D7F-seeklogo.com.png" alt="CLion"/> 
-  </a>
-  <a href="https://www.jetbrains.com/pt-br/pycharm/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png?20200803065702" alt="Pycharm"/> 
-  </a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
-    <img width="120px" src="https://www.pinclipart.com/picdir/big/180-1800785_anaconda-python-logo-clipart.png" alt="Anaconda"/> 
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png?20170128174110" alt="Matlab"/> 
-  </a>
-  <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Codeblocks_logo.png" alt="CodeBlocks"/> 
-  </a>
-  <a href="https://immersive-web.github.io/webxr-samples/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://immersive-web.github.io/webxr-samples/media/logo/webxr-logo.svg" alt="WebXR"/> 
-  </a>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
-    <img width="60px" src="https://github.com/mrdoob/three.js/blob/38bf5f47a8c01a1d12d16a41b4097dc9ee31daad/files/icon.svg" alt="ThreeJS"/> 
-  </a>
-  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> 
-    <img width="80px" src="https://www.opengl.org/img/opengl_logo.jpg" alt="OpenGL"/> 
-  </a>
+<\p>
+## 💻 Frameworks & Library:
+<p align="left"> 
+  <img height="20px" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
 </p>
 
 <br />
