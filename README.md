@@ -9,8 +9,7 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 ![Github Followers](https://img.shields.io/github/followers/arthurgonze?label=Followers&logo=GitHub&style=for-the-badge)
 
 <p align="center">
- 
- <img height="200px" src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=tokyonight&margin-w=15&margin-h=15"/>
+ <img height="200px" src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=tokyonight&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </p>
 <p align="center">
  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
