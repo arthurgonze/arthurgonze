@@ -30,6 +30,7 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
   <img height="40px" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
   <img height="40px" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
+
 ## 🎮 IDEs:
 <p align="left"> 
   <img height="40px" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
@@ -38,11 +39,13 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
   <img height="40px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img height="40px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </p>
+
 ## 👩‍💻 OS:
 <p align="left"> 
   <img height="40px" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
   <img height="40px" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
+
 ## 💻 Frameworks & Library:
 <p align="left"> 
   <img height="40px" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
@@ -50,6 +53,7 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
   <img height="40px" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/>
   <img height="40px" src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
 </p>
+
 ## 👩‍💻 Office:
 <p align="left"> 
   <img height="40px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
