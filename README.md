@@ -11,6 +11,8 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 <p align="left">
   <img height="20px" src="https://gpvc.arturio.dev/arthurgonze"/>
   <img height="20px" src="https://img.shields.io/github/followers/arthurgonze?label=Followers&logo=GitHub&style=for-the-badge"/>
+  <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farthurgonze1212%2Fhit-counter"/>
+  
 </p>
 <p align="center">
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
