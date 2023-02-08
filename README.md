@@ -3,17 +3,9 @@
 
 I'm a Computer Science MSc student. My areas of ​​interest are Computer Graphics, Game Programming, and Computational Fluid Dynamics.
 
-## 📱 Contact: 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:arthurgonze@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arthur-gonze-machado-890715177/) 
+## 📱 Contact: [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:arthurgonze@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arthur-gonze-machado-890715177/) 
 
-## 📟 GitHub Stats
-<p align="left">
-  <img height="20px" src="https://gpvc.arturio.dev/arthurgonze"/>
-  <img height="20px" src="https://img.shields.io/github/followers/arthurgonze?label=Followers&logo=GitHub&style=for-the-badge"/>
-  <img height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farthurgonze1212%2Fhit-counter"/>
-  
-</p>
+## 📟 GitHub Stats: ![Views](https://gpvc.arturio.dev/arthurgonze) ![Followers](https://img.shields.io/github/followers/arthurgonze?label=Followers&logo=GitHub&style=for-the-badge)
 <p align="center">
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
   <img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurgonze&theme=tokyonight"/>
