@@ -3,6 +3,11 @@
 
 I'm a Computer Science MSc student. My areas of ​​interest are Computer Graphics, Game Programming, and Computational Fluid Dynamics.
 
+## ✨ How to reach me : 
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:arthurgonze@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/arthur-gonze-machado-890715177/) 
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/arthurgonze/)
+
 ## My GitHub Stats
 <p align="left">
   <img height="20px" src="https://gpvc.arturio.dev/arthurgonze"/>
@@ -20,11 +25,7 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
   <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyo-night"/> 
 </p>
 
-## ✨ How to reach me : 
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:arthurgonze@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/arthur-gonze-machado-890715177/) 
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/arthurgonze/) 
-
+ 
 ## 👩‍💻 Tools and Technologies:
 <p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
