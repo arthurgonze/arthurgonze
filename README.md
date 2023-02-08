@@ -66,9 +66,19 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 </p>
 <br />
 
-### :lock_with_ink_pen: Recent Projects:
+### 🚀 Top Shipped Games:
+Name | Platform | Link
+-----|-------------|--------|------
+Plunderer's Adventures | [![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)]
+[![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)]
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)] | [Link](https://www.nintendo.com/store/products/plunderers-adventures-switch/)
+Intergalactic Lost and Found | [![GGJ](https://img.shields.io/badge/GGJ-000000?style=for-the-badge&logo=ggj&logoColor=white)] | [Link](https://globalgamejam.org/2021/games/got-it-there-1)
+<br />
+
+### :open_file_folder: Recent Projects:
 Name | Description | Status | Link
 -----|-------------|--------|------
+First Person | A first-person sandbox project to protype gameplay mechanics | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/arthurgonze/Growing)
 Top-down Adventure | A 2D zelda like core mechanics | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/arthurgonze/Zelda-Like)
 Isometric RPG  | A 3D isometric game Diablo like| ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Core-RPG-System)
 Character field-of-view | A 2D stealth game mechanic with some different AI behaviors | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/2D-Field-of-View)
@@ -76,9 +86,10 @@ Character field-of-view | A 2D stealth game mechanic with some different AI beha
 VR & AR | A series of projects to learn VR and AR | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/CG)
 <br />
 
-### :lock_with_ink_pen: Old Projects:
+### :file_folder: Old Projects:
 Name | Description | Status | Link
 -----|-------------|--------|------
+C/C++ Compiler | A Compiler project to a simpler C family language | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/G--p-)
 Minesweeper | Develop a minesweeper to learn Haskell | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/CampoMinado_Haskell)
 3D Tank Game | A base project of a tank war game done in Unreal  | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Tank_Wars)
 Top-down stealth | A 2D top-down with stealth mechanics | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Esu)
