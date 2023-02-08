@@ -10,7 +10,7 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 
 <br>
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&show_icons=true&theme=tokyonight&count_private=true&custom_title=@arthurgonze "> 
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"> 
  <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurgonze&theme=tokyonight" />
 </p>
 <p align="center">
