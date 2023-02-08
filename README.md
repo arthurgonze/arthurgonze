@@ -26,6 +26,11 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 </p>
 <br />
 
+## ✨ How to reach me : 
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:arthurgonze@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/arthur-gonze-machado-890715177/) 
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/arthurgonze/) 
+
 ## 👩‍💻 Tools and Technologies:
 <p align="left"> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
@@ -93,10 +98,6 @@ Code Breaker | A Breakout WebGL Web3 game | ![Badge](https://img.shields.io/badg
 PAC-MAN | A PAC-MAN clone game | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Pac-man)
 <br />
  
-## ✨ How to reach me : 
 
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:arthurgonze@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/arthur-gonze-machado-890715177/) 
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/arthurgonze/) 
  
 
