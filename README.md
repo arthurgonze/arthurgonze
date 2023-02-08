@@ -4,13 +4,7 @@
 I'm a Computer Science MSc student. My areas of ​​interest are Computer Graphics, Game Programming, and Computational Fluid Dynamics.
 
 ## My GitHub Stats
-<p align=center>
-  <img src="https://badges.pufler.dev/visits/arthurgonze/arthurgonze?color=black&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=arthurgonze&color=brightgreen" />
-  <a href="https://github.com/arthurgonze">
-    <img src="https://badges.pufler.dev/commits/monthly/arthurgonze?color=blue" />
-  </a>
-</p>
+[![Profile views](https://gpvc.arturio.dev/arthurgonze)
 
 <br>
 <p align="center">
