@@ -13,8 +13,9 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurgonze&theme=tokyonight"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 <p align="center">
- <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&theme=tokyo-night&custom_title=Languages"/> 
+ <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyo-night&custom_title=Languages"/> 
 </p>
 
 <p align="center">
