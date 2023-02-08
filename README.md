@@ -5,8 +5,8 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 
 ## 📱 Contact: 
 <p align="left">
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:arthurgonze@gmail.com) 
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arthur-gonze-machado-890715177/) 
+  <a href="mailto:arthurgonze@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arthur-gonze-machado-890715177/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 </p>
 
 ## 📟 GitHub Stats: 
