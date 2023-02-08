@@ -6,17 +6,18 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 ## My GitHub Stats
 ![Profile views](https://gpvc.arturio.dev/arthurgonze)
 ![Github Followers](https://img.shields.io/github/followers/arthurgonze?label=Followers&logo=GitHub&style=for-the-badge)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
 <br>
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"> 
- <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurgonze&theme=tokyonight" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurgonze&theme=tokyonight"/>
 </p>
+
 <p align="center">
  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyonight&custom_title=Languages" /> 
  <img width="500px"src="https://activity-graph.herokuapp.com/graph?username=arthurgonze&theme=redical&exclude_repo=arthurgonze"> 
 </p>
+
 <p align="right">
   <img src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
