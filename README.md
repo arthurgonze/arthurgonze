@@ -69,8 +69,8 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 ### 🚀 Top Shipped Games:
 Name | Platform | Link
 -----|----------|-----
-Plunderer's Adventures | [Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) [Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white) [Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) | [Link](https://www.nintendo.com/store/products/plunderers-adventures-switch/)
-Intergalactic Lost and Found | ![Global Game Jam](https://img.shields.io/badge/GGJ?style=for-the-badge&logo=ggj&logoColor=white) | [Link](https://globalgamejam.org/2021/games/got-it-there-1)
+Plunderer's Adventures | ![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) ![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white) ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) | [Link](https://www.nintendo.com/store/products/plunderers-adventures-switch/)
+Intergalactic Lost and Found | ![Global Game Jam](https://img.shields.io/badge/GGJ?style=for-the-badge) | [Link](https://globalgamejam.org/2021/games/got-it-there-1)
 <br />
 
 ### :open_file_folder: Recent Projects:
