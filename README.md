@@ -17,7 +17,7 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 
 <p align="center">
  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=react-dark&custom_title=Languages" /> 
- <img width="500px"src="https://activity-graph.herokuapp.com/graph?username=arthurgonzel&theme=tokyonight&hide_border=true&custom_title=Activity%20Graph"> 
+ <img width="500px"src="https://activity-graph.herokuapp.com/graph?username=arthurgonzel&theme=react-dark&hide_border=true&custom_title=Activity%20Graph"> 
 </p>
 
 <p align="right">
