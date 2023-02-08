@@ -5,18 +5,13 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 
 ## My GitHub Stats
 <p align="left">
-  <img height="10px" src="https://gpvc.arturio.dev/arthurgonze"/>
+  <img height="30px" src="https://gpvc.arturio.dev/arthurgonze"/>
   <br>
-  <img height="10px" src="https://img.shields.io/github/followers/arthurgonze?label=Followers&logo=GitHub&style=for-the-badge"/>
+  <img height="30px" src="https://img.shields.io/github/followers/arthurgonze?label=Followers&logo=GitHub&style=for-the-badge"/>
 </p>
 
-
-![Profile views](https://gpvc.arturio.dev/arthurgonze)
-<br>
-![Github Followers](https://img.shields.io/github/followers/arthurgonze?label=Followers&logo=GitHub&style=for-the-badge)
-
 <p align="center">
-  <img height="50px" src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=tokyonight&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+  <img height="150px" src="https://github-profile-trophy.vercel.app/?username=arthurgonze&theme=tokyonight&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </p>
 <p align="center">
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
