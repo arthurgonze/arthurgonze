@@ -28,6 +28,11 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
  
 ## 👩‍💻 Tools and Technologies:
 <p align="left"> 
+  <img height="20px" src=""/>
+  <img height="20px" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img height="20px" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" /> 
   </a>
