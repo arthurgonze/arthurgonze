@@ -29,44 +29,44 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 
 ## 🎮 Engines & Tools:
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="/>
+  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
+  <a href="https://www.blender.org"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+  <a href="https://www.sidefx.com/products/houdini/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="/>
 </p>
 
 ## 💻 IDEs:
 <p align="left"> 
-  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  <a href="https://www.jetbrains.com/clion/"><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+  <a href="https://www.spyder-ide.org"><img src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white"/>
+  <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <a href="https://visualstudio.microsoft.com"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </p>
 
 ## 👩‍💻 OS:
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
+  <a href="https://www.microsoft.com/en-us/windows/?r=1"><img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
+  <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ## 💻 Frameworks & Library:
 <p align="left"> 
-  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"/>
-  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=990000&logo=WebGL&logoColor=FFFFFF&label="/>
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <a href="https://www.opengl.org"><img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"/>
+  <a href="https://threejs.org"><img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <a href="https://get.webgl.org"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=990000&logo=WebGL&logoColor=FFFFFF&label="/>
+  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+  <a href="https://www.anaconda.com"><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <a href="https://www.gitkraken.com"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/>
+  <a href="https://jupyter.org"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 </p>
 
 ## 👩‍💻 Office:
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <a href="https://www.office.com"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <a href="https://www.overleaf.com"><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"/>
+  <a href="https://trello.com/u/arthurgonze/activity"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 </p>
 <br />
 
