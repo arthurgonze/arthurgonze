@@ -81,26 +81,26 @@ Intergalactic Lost and Found | <a href="https://globalgamejam.org/2021/games/got
  
 
 ### :open_file_folder: Recent Projects:
-Name | Description | Status | Link
------|-------------|--------|------
-First Person | A first-person sandbox project to protype gameplay mechanics | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/arthurgonze/Growing)
-Top-down Adventure | A 2D zelda like core mechanics | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/arthurgonze/Zelda-Like)
-Isometric RPG  | A 3D isometric game Diablo like| ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Core-RPG-System)
-2D SPH | A 2D Smoothed-particle hydrodynamics basic simulator | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/SPH)
-VR & AR | A series of projects to learn VR and AR | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/CG)
+Name | Description | Status 
+-----|-------------|--------
+First Person | A first-person sandbox project to protype gameplay mechanics | <a href="https://github.com/arthurgonze/Growing"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/>
+Top-down Adventure | A 2D zelda like core mechanics | <a href="https://github.com/arthurgonze/Zelda-Like"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/>
+Isometric RPG  | A 3D isometric game Diablo like| <a href="https://github.com/arthurgonze/Core-RPG-System"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
+2D SPH | A 2D Smoothed-particle hydrodynamics basic simulator | <a href="https://github.com/arthurgonze/SPH"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
+VR & AR | A series of projects to learn VR and AR | <a href="https://github.com/arthurgonze/CG"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
 <br />
 
 ### :file_folder: Old Projects:
-Name | Description | Status | Link
------|-------------|--------|------
-C/C++ Compiler | A Compiler project to a simpler C family language | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/G--p-)
-Minesweeper | Develop a minesweeper to learn Haskell | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/CampoMinado_Haskell)
-3D Tank Game | A base project of a tank war game done in Unreal  | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Tank_Wars)
-Top-down stealth | A 2D top-down with stealth mechanics | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Esu)
-Character field-of-view | A 2D stealth game mechanic with some different AI behaviors | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/2D-Field-of-View)
-Horizontal Shoot 'em up | A R-Type clone game | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/R-Type)
-Code Breaker | A Breakout WebGL Web3 game | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Breakout)
-PAC-MAN | A PAC-MAN clone game | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/arthurgonze/Pac-man)
+Name | Description | Status 
+-----|-------------|--------
+C/C++ Compiler | A Compiler project to a simpler C family language | <a href="https://github.com/arthurgonze/G--p-"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
+Minesweeper | Develop a minesweeper to learn Haskell | <a href="https://github.com/arthurgonze/CampoMinado_Haskell"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
+3D Tank Game | A base project of a tank war game done in Unreal  | <a href="https://github.com/arthurgonze/Tank_Wars"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
+Top-down stealth | A 2D top-down with stealth mechanics | <a href="https://github.com/arthurgonze/Esu"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
+Character field-of-view | A 2D stealth game mechanic with some different AI behaviors | <a href="https://github.com/arthurgonze/2D-Field-of-View"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
+Horizontal Shoot 'em up | A R-Type clone game | <a href="https://github.com/arthurgonze/R-Type"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
+Code Breaker | A Breakout WebGL Web3 game | <a href="https://github.com/arthurgonze/Breakout"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
+PAC-MAN | A PAC-MAN clone game | <a href="https://github.com/arthurgonze/Pac-man"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
 <br />
  
 
