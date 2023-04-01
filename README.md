@@ -75,7 +75,7 @@ Name | Platform | 18+
 -----|----------|-------------
 Plunderer's Adventures | <a href="https://www.nintendo.com/store/products/plunderers-adventures-switch/"><img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"/> | ![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white) <a href="https://store.steampowered.com/app/1546640/Plunderers_Adventures_Sea_of_Whores/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 Intergalactic Lost and Found | <a href="https://globalgamejam.org/2021/games/got-it-there-1"><img src="https://img.shields.io/badge/Global%20Game%20Jam-2021-cyan"/> 
-<br /> |
+<br />
 
 ### :open_file_folder: Recent Projects:
 Name | Description | Status | Link
