@@ -91,7 +91,7 @@ Top-down Adventure | A 2D zelda like core mechanics | <a href="https://github.co
 ### :file_folder: Finished Projects:
 Name | Description | Development Status | Creation (dd/mm/yyyy) | Updated (dd/mm/yyyy)
 :----:|:----|:----:|:----:|:----:  
-Catch a Pirate | A 2D top-down pirate ship battle game | <a href="https://github.com/arthurgonze/CatchAPirate"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 23/02/2023 | 23/02/2023
+Catch a Pirate | A 2D top-down pirate ship battle game | <a href="https://github.com/arthurgonze/CatchAPirate"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 23/02/2023 | 23/02/2023
 2D SPH | A 2D Smoothed-particle hydrodynamics basic simulator | <a href="https://github.com/arthurgonze/SPH"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 30/01/2022 | 08/02/2023
 VR & AR | A series of projects to learn VR and AR | <a href="https://github.com/arthurgonze/CG"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 14/07/2021 | 31/05/2022
 C/C++ Compiler | A Compiler project to a simpler C family language | <a href="https://github.com/arthurgonze/G--p-"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 08/08/2019 | 18/12/2019
