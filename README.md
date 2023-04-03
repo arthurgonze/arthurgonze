@@ -80,7 +80,7 @@ Intergalactic Lost and Found | <a href="https://globalgamejam.org/2021/games/got
  
  
 
-### :open_file_folder: Recent Projects:
+### :open_file_folder: Unfinished Projects:
 Name | Description | Development Status | Creation (dd/mm/yyyy) | Updated (dd/mm/yyyy)
 :----:|:----|:----:|:----:|:----:  
 Portfolio Site | A portfolio site to expose my main developed projects and guides | <a href="https://github.com/arthurgonze/Dreamworld"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 25/02/2023 | 13/03/2023
