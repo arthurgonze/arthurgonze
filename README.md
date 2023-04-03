@@ -81,7 +81,7 @@ Intergalactic Lost and Found | <a href="https://globalgamejam.org/2021/games/got
  
 
 ### :open_file_folder: Recent Projects:
-Name | Description | Status | Creation (dd/mm/yyyy) | Updated (dd/mm/yyyy)
+Name | Description | Development Status | Creation (dd/mm/yyyy) | Updated (dd/mm/yyyy)
 --------|----------------|----------------|--------|--------  
 First Person | A first-person sandbox project to protype gameplay mechanics | <a href="https://github.com/arthurgonze/Growing"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 07/02/2023 | 13/02/2023
 Top-down Adventure | A 2D zelda like core mechanics | <a href="https://github.com/arthurgonze/Zelda-Like"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 31/03/2022 | 31/03/2022
