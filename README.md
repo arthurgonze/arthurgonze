@@ -72,7 +72,7 @@ I'm a Computer Science MSc student. My areas of ​​interest are Computer Grap
 
 ### 🚀 Top Shipped Games:
 Name | Platform | 18+
------|----------|-------------
+:----:|:----:|:----:
 Plunderer's Adventures | <a href="https://www.nintendo.com/store/products/plunderers-adventures-switch/"><img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"/> | <a href="https://hentairoom.itch.io/plunderers-whores"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/> <a href="https://store.steampowered.com/app/1546640/Plunderers_Adventures_Sea_of_Whores/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 Intergalactic Lost and Found | <a href="https://globalgamejam.org/2021/games/got-it-there-1"><img src="https://img.shields.io/badge/Global%20Game%20Jam-2021-cyan"/> 
 <br />
@@ -82,7 +82,7 @@ Intergalactic Lost and Found | <a href="https://globalgamejam.org/2021/games/got
 
 ### :open_file_folder: Unfinished Projects:
 Name | Description | Development Status | Creation (dd/mm/yyyy) | Updated (dd/mm/yyyy)
-:----:|:----|:----:|:----:|:----:  
+:----:|:----:|:----:|:----:|:----:  
 Portfolio Site | A portfolio site to expose my main developed projects and guides | <a href="https://github.com/arthurgonze/Dreamworld"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 25/02/2023 | 13/03/2023
 First Person | A first-person sandbox project to protype gameplay mechanics | <a href="https://github.com/arthurgonze/Growing"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 07/02/2023 | 13/02/2023
 Top-down Adventure | A 2D zelda like core mechanics | <a href="https://github.com/arthurgonze/Zelda-Like"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 31/03/2022 | 31/03/2022
@@ -90,7 +90,7 @@ Top-down Adventure | A 2D zelda like core mechanics | <a href="https://github.co
 
 ### :file_folder: Finished Projects:
 Name | Description | Development Status | Creation (dd/mm/yyyy) | Updated (dd/mm/yyyy)
-:----:|:----|:----:|:----:|:----:  
+:----:|:----:|:----:|:----:|:----:  
 Catch a Pirate | A 2D top-down pirate ship battle game | <a href="https://github.com/arthurgonze/CatchAPirate"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 23/02/2023 | 23/02/2023
 2D SPH | A 2D Smoothed-particle hydrodynamics basic simulator | <a href="https://github.com/arthurgonze/SPH"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 30/01/2022 | 08/02/2023
 VR & AR | A series of projects to learn VR and AR | <a href="https://github.com/arthurgonze/CG"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 14/07/2021 | 31/05/2022
