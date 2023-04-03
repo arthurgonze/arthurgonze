@@ -81,13 +81,13 @@ Intergalactic Lost and Found | <a href="https://globalgamejam.org/2021/games/got
  
 
 ### :open_file_folder: Recent Projects:
-Name | Description | Status 
------|-------------|--------
-First Person | A first-person sandbox project to protype gameplay mechanics | <a href="https://github.com/arthurgonze/Growing"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/>
-Top-down Adventure | A 2D zelda like core mechanics | <a href="https://github.com/arthurgonze/Zelda-Like"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/>
-Isometric RPG  | A 3D isometric game Diablo like| <a href="https://github.com/arthurgonze/Core-RPG-System"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
-2D SPH | A 2D Smoothed-particle hydrodynamics basic simulator | <a href="https://github.com/arthurgonze/SPH"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
-VR & AR | A series of projects to learn VR and AR | <a href="https://github.com/arthurgonze/CG"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
+Name | Description | Status | Creation (dd/mm/yyyy) | Updated (dd/mm/yyyy)
+-----|-------------|--------|---------|---------  
+First Person | A first-person sandbox project to protype gameplay mechanics | <a href="https://github.com/arthurgonze/Growing"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 07/02/2023 | 13/02/2023
+Top-down Adventure | A 2D zelda like core mechanics | <a href="https://github.com/arthurgonze/Zelda-Like"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 31/03/2022 | 31/03/2022
+Isometric RPG  | A 3D isometric game Diablo like| <a href="https://github.com/arthurgonze/Core-RPG-System"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 11/03/2019 | 24/05/2022
+2D SPH | A 2D Smoothed-particle hydrodynamics basic simulator | <a href="https://github.com/arthurgonze/SPH"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 30/01/2022 | 08/02/2023
+VR & AR | A series of projects to learn VR and AR | <a href="https://github.com/arthurgonze/CG"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 14/07/2021 | 31/05/2022
 <br />
 
 ### :file_folder: Old Projects:
