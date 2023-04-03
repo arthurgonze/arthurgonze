@@ -83,24 +83,27 @@ Intergalactic Lost and Found | <a href="https://globalgamejam.org/2021/games/got
 ### :open_file_folder: Recent Projects:
 Name | Description | Development Status | Creation (dd/mm/yyyy) | Updated (dd/mm/yyyy)
 :----:|:----|:----:|:----:|:----:  
+Portfolio Site | A portfolio site to expose my main developed projects and guides | <a href="https://github.com/arthurgonze/Dreamworld"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 25/02/2023 | 13/03/2023
 First Person | A first-person sandbox project to protype gameplay mechanics | <a href="https://github.com/arthurgonze/Growing"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 07/02/2023 | 13/02/2023
 Top-down Adventure | A 2D zelda like core mechanics | <a href="https://github.com/arthurgonze/Zelda-Like"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 31/03/2022 | 31/03/2022
-Isometric RPG  | A 3D isometric game Diablo like| <a href="https://github.com/arthurgonze/Core-RPG-System"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 11/03/2019 | 24/05/2022
-2D SPH | A 2D Smoothed-particle hydrodynamics basic simulator | <a href="https://github.com/arthurgonze/SPH"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 30/01/2022 | 08/02/2023
-VR & AR | A series of projects to learn VR and AR | <a href="https://github.com/arthurgonze/CG"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 14/07/2021 | 31/05/2022
 <br />
 
-### :file_folder: Old Projects:
+### :file_folder: Finished Projects:
 Name | Description | Development Status | Creation (dd/mm/yyyy) | Updated (dd/mm/yyyy)
 :----:|:----|:----:|:----:|:----:  
+Catch a Pirate | A 2D top-down pirate ship battle game | <a href="https://github.com/arthurgonze/CatchAPirate"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 23/02/2023 | 23/02/2023
+2D SPH | A 2D Smoothed-particle hydrodynamics basic simulator | <a href="https://github.com/arthurgonze/SPH"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 30/01/2022 | 08/02/2023
+VR & AR | A series of projects to learn VR and AR | <a href="https://github.com/arthurgonze/CG"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 14/07/2021 | 31/05/2022
 C/C++ Compiler | A Compiler project to a simpler C family language | <a href="https://github.com/arthurgonze/G--p-"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 08/08/2019 | 18/12/2019
 Minesweeper | Develop a minesweeper to learn Haskell | <a href="https://github.com/arthurgonze/CampoMinado_Haskell"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 10/07/2019 | 07/08/2019
-3D Tank Game | A base project of a tank war game done in Unreal  | <a href="https://github.com/arthurgonze/Tank_Wars"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 01/02/2019 | 31/03/2022
-Top-down stealth | A 2D top-down with stealth mechanics | <a href="https://github.com/arthurgonze/Esu"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 18/02/2019 | 22/02/2019
+Isometric RPG  | A 3D isometric game Diablo like| <a href="https://github.com/arthurgonze/Core-RPG-System"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 11/03/2019 | 24/05/2022
 Character field-of-view | A 2D stealth game mechanic with some different AI behaviors | <a href="https://github.com/arthurgonze/2D-Field-of-View"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 22/02/2019 | 30/03/2022
-Horizontal Shoot 'em up | A R-Type clone game | <a href="https://github.com/arthurgonze/R-Type"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 19/02/2019 | 30/03/2022
 Code Breaker | A Breakout WebGL Web3 game | <a href="https://github.com/arthurgonze/Breakout"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 21/02/2019 | 04/04/2022
 PAC-MAN | A PAC-MAN clone game | <a href="https://github.com/arthurgonze/Pac-man"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 20/02/2019 | 07/04/2022
+Horizontal Shoot 'em up | A R-Type clone game | <a href="https://github.com/arthurgonze/R-Type"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 19/02/2019 | 30/03/2022
+Top-down stealth | A 2D top-down with stealth mechanics | <a href="https://github.com/arthurgonze/Esu"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 18/02/2019 | 22/02/2019
+3D Tank Game | A base project of a tank war game done in Unreal  | <a href="https://github.com/arthurgonze/Tank_Wars"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 01/02/2019 | 31/03/2022
+
 <br />
  
 
