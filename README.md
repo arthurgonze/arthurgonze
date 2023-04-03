@@ -82,7 +82,7 @@ Intergalactic Lost and Found | <a href="https://globalgamejam.org/2021/games/got
 
 ### :open_file_folder: Recent Projects:
 Name | Description | Development Status | Creation (dd/mm/yyyy) | Updated (dd/mm/yyyy)
-:--------|:----------------|:----------------:|:--------:|:--------:  
+:----:|:----|:----:|:----:|:----:  
 First Person | A first-person sandbox project to protype gameplay mechanics | <a href="https://github.com/arthurgonze/Growing"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 07/02/2023 | 13/02/2023
 Top-down Adventure | A 2D zelda like core mechanics | <a href="https://github.com/arthurgonze/Zelda-Like"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 31/03/2022 | 31/03/2022
 Isometric RPG  | A 3D isometric game Diablo like| <a href="https://github.com/arthurgonze/Core-RPG-System"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 11/03/2019 | 24/05/2022
@@ -91,16 +91,16 @@ VR & AR | A series of projects to learn VR and AR | <a href="https://github.com/
 <br />
 
 ### :file_folder: Old Projects:
-Name | Description | Status 
------|-------------|--------
-C/C++ Compiler | A Compiler project to a simpler C family language | <a href="https://github.com/arthurgonze/G--p-"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
-Minesweeper | Develop a minesweeper to learn Haskell | <a href="https://github.com/arthurgonze/CampoMinado_Haskell"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
-3D Tank Game | A base project of a tank war game done in Unreal  | <a href="https://github.com/arthurgonze/Tank_Wars"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
-Top-down stealth | A 2D top-down with stealth mechanics | <a href="https://github.com/arthurgonze/Esu"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
-Character field-of-view | A 2D stealth game mechanic with some different AI behaviors | <a href="https://github.com/arthurgonze/2D-Field-of-View"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
-Horizontal Shoot 'em up | A R-Type clone game | <a href="https://github.com/arthurgonze/R-Type"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
-Code Breaker | A Breakout WebGL Web3 game | <a href="https://github.com/arthurgonze/Breakout"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
-PAC-MAN | A PAC-MAN clone game | <a href="https://github.com/arthurgonze/Pac-man"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/>
+Name | Description | Development Status | Creation (dd/mm/yyyy) | Updated (dd/mm/yyyy)
+:----:|:----|:----:|:----:|:----:  
+C/C++ Compiler | A Compiler project to a simpler C family language | <a href="https://github.com/arthurgonze/G--p-"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 08/08/2019 | 18/12/2019
+Minesweeper | Develop a minesweeper to learn Haskell | <a href="https://github.com/arthurgonze/CampoMinado_Haskell"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 10/07/2019 | 07/08/2019
+3D Tank Game | A base project of a tank war game done in Unreal  | <a href="https://github.com/arthurgonze/Tank_Wars"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 01/02/2019 | 31/03/2022
+Top-down stealth | A 2D top-down with stealth mechanics | <a href="https://github.com/arthurgonze/Esu"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 18/02/2019 | 22/02/2019
+Character field-of-view | A 2D stealth game mechanic with some different AI behaviors | <a href="https://github.com/arthurgonze/2D-Field-of-View"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 22/02/2019 | 30/03/2022
+Horizontal Shoot 'em up | A R-Type clone game | <a href="https://github.com/arthurgonze/R-Type"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 19/02/2019 | 30/03/2022
+Code Breaker | A Breakout WebGL Web3 game | <a href="https://github.com/arthurgonze/Breakout"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 21/02/2019 | 04/04/2022
+PAC-MAN | A PAC-MAN clone game | <a href="https://github.com/arthurgonze/Pac-man"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 20/02/2019 | 07/04/2022
 <br />
  
 
