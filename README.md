@@ -1,7 +1,7 @@
 ## Hello there, I'm [Arthur!](https://www.linkedin.com/in/arthur-gonze-machado-890715177/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <blockquote>Code & Games & Coffee</blockquote>
 
-I'm an MSc. Computer Scientist and Unreal Developer. My areas of ​​interest are Computer Graphics, Game Programming, and Computational Fluid Dynamics.
+I'm an MSc. Computer Scientist and Technical Artist. My areas of ​​interest are Computer Graphics, Game Programming, and Computational Fluid Dynamics.
 
 <p align="left">
   <a href="https://drive.google.com/file/d/1rydwj6cdRLMl_LdqAOj8qYzqasdFrTTf/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-2024-green"/> 
