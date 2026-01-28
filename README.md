@@ -13,10 +13,8 @@ I'm an MSc. Computer Scientist and Technical Artist. My areas of ​​interest 
 </p>
 
 ## 📟 GitHub Stats: 
-<p align="left">
+<p align="center">
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
-</p>
-<p align="right">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyonight"/> &nbsp&nbsp
 </p>
 
