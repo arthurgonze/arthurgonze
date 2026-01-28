@@ -14,7 +14,7 @@ I'm an MSc. Computer Scientist and Technical Artist. My areas of ​​interest 
   <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
 </p>
 
-## 🎮 Engines & Tools:
+## 🎮 DCCs:
 <p align="left"> 
   <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
@@ -22,16 +22,13 @@ I'm an MSc. Computer Scientist and Technical Artist. My areas of ​​interest 
   <a href="https://www.sidefx.com/products/houdini/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="/>
 </p>
 
-## 💻 Frameworks & Library:
+## 💻 Code:
 <p align="left"> 
   <a href="https://www.opengl.org"><img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"/>
   <a href="https://threejs.org"><img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
   <a href="https://get.webgl.org"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=990000&logo=WebGL&logoColor=FFFFFF&label="/>
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
   <a href="https://www.anaconda.com"><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <a href="https://www.gitkraken.com"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"/>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/>
-  <a href="https://jupyter.org"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 </p>
 <br />
 
