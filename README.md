@@ -14,8 +14,8 @@ I'm an MSc. Computer Scientist and Technical Artist. My areas of ​​interest 
 
 ## 📟 Stats: 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyonight"/> &nbsp&nbsp
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyonight"/> &nbsp&nbsp
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
 </p>
 
 ## 🎮 Engines & Tools:
