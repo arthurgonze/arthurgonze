@@ -4,7 +4,7 @@
 I'm an MSc. Computer Scientist and Technical Artist. My areas of ​​interest are Computer Graphics, Game Programming, and Computational Fluid Dynamics.
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1rydwj6cdRLMl_LdqAOj8qYzqasdFrTTf/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-2024-green"/> 
+  <a href="https://drive.google.com/file/d/18bUZFEubUkVs1fGJ3xzEq7tU5UaYiHsb/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-2024-green"/> 
 </p>
   
 ## 📱 Contact: 
