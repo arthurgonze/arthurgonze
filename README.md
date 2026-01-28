@@ -5,10 +5,6 @@ I'm an MSc. Computer Scientist and Technical Artist. My areas of ​​interest 
 
 <p align="left">
   <a href="https://drive.google.com/file/d/18bUZFEubUkVs1fGJ3xzEq7tU5UaYiHsb/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-2024-green"/> 
-</p>
-  
-## 📱 Contact: 
-<p align="left">
   <a href="https://www.linkedin.com/in/arthur-gonze-machado-890715177/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 </p>
 
