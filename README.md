@@ -12,10 +12,10 @@ I'm an MSc. Computer Scientist and Technical Artist. My areas of ​​interest 
   <a href="https://www.linkedin.com/in/arthur-gonze-machado-890715177/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 </p>
 
-## 📟 GitHub Stats: 
+## 📟 Stats: 
 <p align="center">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyonight"/> &nbsp&nbsp
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyonight"/> &nbsp&nbsp
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
 </p>
 
 ## 🎮 Engines & Tools:
