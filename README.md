@@ -38,9 +38,8 @@ I'm an MSc. Computer Scientist and Technical Artist. My areas of ​​interest 
 ### :open_file_folder: Unfinished Projects:
 Name | Description | Development Status | Creation (dd/mm/yyyy) | Updated (dd/mm/yyyy)
 :----:|:----:|:----:|:----:|:----:  
-Portfolio Site | A portfolio site to expose my main developed projects and guides | <a href="https://github.com/arthurgonze/Dreamworld"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 25/02/2023 | 13/03/2023
+Portfolio Site | A portfolio site to expose my main developed projects and guides | <a href="https://github.com/arthurgonze/portfolio-site"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 25/02/2023 | 13/03/2023
 First Person | A first-person sandbox project to protype gameplay mechanics | <a href="https://github.com/arthurgonze/Growing"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 07/02/2023 | 13/02/2023
-Top-down Adventure | A 2D zelda like core mechanics | <a href="https://github.com/arthurgonze/Zelda-Like"><img src="https://img.shields.io/badge/Status-INPROGRESS-yellow.svg"/> | 31/03/2022 | 31/03/2022
 <br />
 
 ### :file_folder: Finished Projects:
@@ -58,6 +57,7 @@ PAC-MAN | A PAC-MAN clone game | <a href="https://github.com/arthurgonze/Pac-man
 Horizontal Shoot 'em up | A R-Type clone game | <a href="https://github.com/arthurgonze/R-Type"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 19/02/2019 | 30/03/2022
 Top-down stealth | A 2D top-down with stealth mechanics | <a href="https://github.com/arthurgonze/Esu"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 18/02/2019 | 22/02/2019
 3D Tank Game | A base project of a tank war game done in Unreal  | <a href="https://github.com/arthurgonze/Tank_Wars"><img src="https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg"/> | 01/02/2019 | 31/03/2022
+Top-down Adventure | A 2D zelda like core mechanics | <a href="https://github.com/arthurgonze/Zelda-Like"><img src="https://img.shields.io/badge/Status-CANCELED-red.svg"/> | 31/03/2022 | 31/03/2022
 
 <br />
  
