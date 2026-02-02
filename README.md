@@ -8,30 +8,6 @@ I'm an MSc. Computer Scientist and Technical Artist. My areas of ​​interest 
   <a href="https://www.linkedin.com/in/arthur-gonze-machado-890715177/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 </p>
 
-## 📟 Stats: 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurgonze&layout=compact&theme=tokyonight"/> &nbsp&nbsp
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=arthurgonze&theme=tokyonight&custom_title=@arthurgonze"/> 
-</p>
-
-## 🎮 DCCs:
-<p align="left"> 
-  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
-  <a href="https://www.blender.org"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  <a href="https://www.sidefx.com/products/houdini/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Houdini&color=FF4713&logo=Houdini&logoColor=FFFFFF&label="/>
-</p>
-
-## 💻 Code:
-<p align="left"> 
-  <a href="https://www.opengl.org"><img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"/>
-  <a href="https://threejs.org"><img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
-  <a href="https://get.webgl.org"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=990000&logo=WebGL&logoColor=FFFFFF&label="/>
-  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
-  <a href="https://www.anaconda.com"><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
-</p>
-<br />
-
 ### :open_file_folder: Unfinished Projects:
 Name | Description | Development Status | Creation (dd/mm/yyyy) | Updated (dd/mm/yyyy)
 :----:|:----:|:----:|:----:|:----:  
